@@ -1,1 +1,1 @@
-worker: python run.py --no-checks
+worker: python run.py
